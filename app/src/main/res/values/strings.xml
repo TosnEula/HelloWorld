@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="intro_string">Hello World! My name is Dominique I am working on learning Android development</string>
+</resources>
